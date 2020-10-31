@@ -21,3 +21,8 @@ If you prefer MOOCs, then refer the following:
 For any reference on C++ libraries, refer to [cppreference](http://en.cppreference.com/w/cpp).
 
 You can go through the [Getting Started](GettingStarted/) folder to read and practice some of the basic programs of C++ and also contribute your own programs (if similar program not already added by someone else).
+
+#### Blogs that learners found quite useful
+
+- [Build a career in Tech without a CS Major](https://medium.com/@amangoeliitb/build-a-solid-career-in-tech-without-a-cs-major-39cdef86013)
+- [Building a Career in Software Development Without a Computer Science Degree](https://medium.com/swlh/building-a-career-in-software-development-without-a-computer-science-degree-d1cabfb6fab4?source=search_post---------0)

@@ -10,8 +10,16 @@ If you prefer reading, then these are some of the curated resources you can refe
 - [learncpp: Tutorials to help you master C++](http://www.learncpp.com/)
 - [cplusplus.com: C++ Tutorials](http://www.cplusplus.com/doc/tutorial/)
 
+
 If you prefer youtube videos, then these are the best ones out there:
 - [Programming in C++ Playlist](https://www.youtube.com/playlist?list=PLdFUT7614Oi6Jb5aqm87gZu_Jqw1igAGB)
+
+Link of some youtube channels for Competitive Programming
+- [Errichto Youtube Channel](https://www.youtube.com/c/Errichto/playlists)
+
+If you want to learn Web development
+- [The Net Ninja] (https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Codevolution] (https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 
 If you prefer MOOCs, then refer the following:
 - [edX: Intro to C++](https://www.edx.org/course/introduction-c-microsoft-dev210x-5)
